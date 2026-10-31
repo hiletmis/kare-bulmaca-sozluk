@@ -1,6 +1,6 @@
 # Kare Bulmaca Sözlüğü
 
-Türkçe kare bulmacalar için ~19.700 kelime ve ipucu. [Kare Bulmaca](https://github.com/hiletmis) iOS uygulamasında kullanılır.
+Türkçe kare bulmacalar için ~19.700 kelime ve ipucu. Kare Bulmaca iOS uygulamasında kullanılır.
 
 ## Biçim
 
@@ -21,4 +21,13 @@ Türkçe Vikisözlük (https://tr.wiktionary.org) maddelerinden, Vikisözlük ka
 Zorluk seviyeleri [FrequencyWords](https://github.com/hermitdave/FrequencyWords) (CC BY-SA 4.0)
 listesinden yararlanılarak belirlenmiştir.
 
-Lisans: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.tr). Ayrıntılar `LICENSE.md` dosyasında.
+Lisans: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.tr). Ayrıntılar: [LICENSE.md](LICENSE.md)
+
+## Destek
+
+Bir sorun yaşadıysan ya da bir ipucunda hata bulduysan
+[issue](https://github.com/hiletmis/kare-bulmaca-sozluk/issues) açabilirsin.
+
+## Gizlilik
+
+Uygulama hiçbir veri toplamaz. Ayrıntılar: [gizlilik.md](gizlilik.md)
