@@ -1,6 +1,6 @@
 # Kare Bulmaca Sözlüğü
 
-Türkçe kare bulmacalar için ~19.700 kelime ve ipucu. Kare Bulmaca iOS uygulamasında kullanılır.
+Türkçe kare bulmacalar için ~19.500 kelime ve ipucu. Kare Bulmaca iOS uygulamasında kullanılır.
 
 ## Biçim
 
